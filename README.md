@@ -1,4 +1,5 @@
 # first-git
-This is my first  respository
+
+This is my first respository
 <br>
-author Prince
+author Prince Tiwari
